@@ -12,8 +12,7 @@ An exciting new play about coffee.
 When people want to show off code to each other they can put it on GitHub
 
 ## 4. What happens when you `fork` a repository?
-
-You delete it
+create copy of the repo in my own github aacount
 
 ## 5. What happens when you clone a repository?
 
